@@ -1,2 +1,2 @@
 # dio-springboot
-Códigos exemplos do Curso de Springboot da DIO
+Projetos e Códigos exemplos do Curso de Springboot da DIO
